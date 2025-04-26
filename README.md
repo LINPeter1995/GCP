@@ -1,5 +1,7 @@
 # GCP
 
+點選Compute Engine-連線-SSH-V箭頭-複製gcloud 指令-貼上Google Cloud SDK shell 成功連線到 VM
+
 ✅ 什麼是 gsutil？
 
 gsutil 是 Google 提供的 命令列工具，用來操作 Google Cloud Storage（GCS）裡的 Bucket 和檔案。
