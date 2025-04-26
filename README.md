@@ -1,5 +1,21 @@
 # GCP
 
+相關套件
+
+pip install google-cloud-bigquery
+
+pip install db-dtypes
+
+pip install protobuf
+
+pip install pandas
+
+pip install google-auth
+
+pip install google-api-core
+
+pip install grpcio
+
 點選Compute Engine-連線-SSH-V箭頭-複製gcloud 指令-貼上Google Cloud SDK shell 成功連線到 VM
 
 ✅ 什麼是 gsutil？
