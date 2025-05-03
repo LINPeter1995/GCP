@@ -1,6 +1,6 @@
 # GCP
 
-相關套件
+環境相關套件
 
 pip install google-cloud-bigquery
 
