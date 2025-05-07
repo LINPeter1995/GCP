@@ -1,5 +1,7 @@
 # GCP
 
+鑰使token記得放gitignore
+
 環境相關套件
 
 pip install google-cloud-bigquery
